@@ -1,3 +1,4 @@
+
 let stack = [];
     let matchingBrackets = {
         '(': ')',
