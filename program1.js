@@ -1,11 +1,3 @@
-/**
- * @param {string} s
- * @return {boolean}
- */
-var isValid = function(s) {
-    
-};
-
-module.exports = { isValid };
+def isValid(s: str) -> bool:
 
 
